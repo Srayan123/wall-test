@@ -1,0 +1,74 @@
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+.div_1 {
+    position: absolute;
+    width: 20%;
+    left: 8%;
+    top: 15%;
+}
+.div_2 {
+    width: 20%;
+    position: absolute;
+    left: 29%;
+    top: 15%;
+    
+}
+.div_3 {
+    width: 20%;
+    position: absolute;
+    right: 29%;
+    top: 15%;
+}
+.div_4 {
+    width: 20%;
+    position: absolute;
+    right: 8%;
+    top: 15%;
+}
+.div_5 {
+    width: 20%;
+    position: absolute;
+    left: 8%;
+    top: 39%;
+}
+.div_6 {
+    width: 20%;
+    position: absolute;
+    left: 29%;
+    top: 39%;
+}
+.div_7 {
+    width: 20%;
+    position: absolute;
+    right: 29%;
+    top: 39%
+}
+.div_8 {
+    width: 20%;
+    position: absolute;
+    right: 8%;
+    top: 39%
+}
+
+
+.div_9 {
+    position: absolute;
+    width: 20%;
+    right: 29%;
+    top: 63%
+}
+.div_10 {
+    width: 20%;
+    position: absolute;
+    left: 29%;
+    top: 63%
+}
+.parent {
+    width: 100%;
+    height: auto;
+}
+body {
+    background-color: #0077B1;
+}

@@ -1,0 +1,83 @@
+video {
+    width: 100%;
+}
+.parent {
+    width: 100vw
+}
+.child {
+    position: absolute;
+    width: 70%;
+    text-align: center;
+}
+.details {
+    width: 30%;
+    position: absolute;
+    left: 70%;
+    text-align: center;
+}
+.logo {
+    width: 4%;
+}
+.link {
+    position: absolute;
+    left: 94%;
+    top: -2%;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.upd {
+    position: absolute;
+    left: 5%;
+}
+.uii {
+    width: 40px;
+    border-radius: 50%;
+    position: absolute;
+    left: 7%;
+    top :13%
+    
+}
+.ui {
+    position: absolute;
+    top: 180%;
+    left: 5%;
+    background: lightblue;
+    width: 90%;
+    height: 100%;
+    border-radius: 35px;
+    box-shadow: 0px;
+}
+.name {
+    position: absolute;
+    top: -20%;
+    left: 25%;
+}
+.details-table {
+    border: 1px solid black;
+    position: absolute;
+    left: 5%;
+    top: 500%
+    
+}
+.btn {
+    position: absolute;
+    left: 5%;
+    top: 350%;
+    width: 90%;
+    height: 90%;
+    background: lime;
+    box-shadow: none;
+    border: none;
+    border-radius: 35px;
+}
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    width: 80%;
+}
+tr {
+    height: 40px;
+}
+
